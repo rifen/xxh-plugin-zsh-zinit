@@ -16,8 +16,9 @@ From any repo:
 xxh +I xxh-plugin-zsh-zinit+git+https://github.com/yourname/xxh-plugin-zsh-zinit
 ```    
 Connect:
-``````
+```
 xxh [user@]host[:port] +s zsh +if
+```
 
 ## Seamless mode
 To use seamless mode with saving your theme and plugins use `source` command: 
