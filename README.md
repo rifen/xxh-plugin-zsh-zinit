@@ -1,5 +1,5 @@
 <p align="center">  
-<a href="https://github.com/xxh/xxh">xxh</a> entrypoint for <a href="https://github.com/zdharma/zinit">zinit</a> - a Ultra-flexible and fast Zsh plugin manager.
+<a href="https://github.com/zdharma/zinit/">Zinit</a> plugin for <a href="github.com/xxh/xxh-shell-zsh">xxh-shell-zsh</a>.
 </p>
 
 <p align="center">  
